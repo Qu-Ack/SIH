@@ -1,4 +1,9 @@
 # SIH
 
+<<<<<<< HEAD
+
+DHRUV TIWARI
+
+MY LORD
 DHRUV TIWARI
 Hello DHruv 
